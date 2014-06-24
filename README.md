@@ -23,3 +23,5 @@ Tested printers
 ---------------
 
 - [Sculpteo](http://sculpteo.com)
+- [Ultimaker 2](https://www.ultimaker.com/pages/our-printers/ultimaker-2)
+
